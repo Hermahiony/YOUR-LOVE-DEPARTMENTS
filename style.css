@@ -1,0 +1,16 @@
+/* styles.css */
+
+/* Estilos para el edificio */
+.edificio {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+/* Estilos para cada departamento */
+.departamento {
+    width: 100px;
+    height: 100px;
+    background-color: #ccc;
+    cursor: pointer;
+}
